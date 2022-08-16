@@ -107,4 +107,34 @@ border-radius: 6px;
     height: 300px;
 }
 
+.section-1{
+    display: flex;
+    min-height: 400px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2em 7em 1em 7em;
+    gap: 2em;
+}
 
+.section-2{
+    display: flex;
+    min-height: 400px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2em 7em 1em 7em;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.section-3{
+    display: flex;
+    min-height: 400px;
+    align-items: center;
+    justify-content: center;
+    
+   
+}
